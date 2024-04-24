@@ -19,3 +19,8 @@
 * Visualizar la información a través de PyGWalker (instalar previo - https://github.com/Kanaries/pygwalker)
  * Un gráfico que muestre el número de registros por cada edad
  * Un gráfico que muestre el número de registros por cada provincia 
+
+ * INTEGRANTES
+ * BYRON ACARO
+ * MAURICIO AIGAJE
+ * BRYANT PORTILLA
